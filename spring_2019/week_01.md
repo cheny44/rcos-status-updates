@@ -1,23 +1,24 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> As a group, we discussed and summarized the demands and requests of Albany Public Library. We also \
+> discussed the timeline and milestones based on the demands. 
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> I was able to get familiar with PHP and learned the basic syntax of PHP including hello world, variables \
+> and types, arrays, strings, loops, functions, and objects. 
+
+> I successfully set up development environment with PHPStorm. I am in half way of installing the software \
+> AGENCY on my laptop. I finished setting up the PostgreSQL database. 
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> I will finish installing AGENCY and dig into the original code. We will identify the coding standards \
+> and style guide. We will identify main changes to be made to AGENCY software to fit the library's requests. 
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> We are stuck on installing AGENCY because some parts of the code are ambiguously explained. We have to \
+> figure out what to do with that. Also, reading the code can be tough because it is a big project. It may \
+> take a long time. 
 
 ## Notes
 
